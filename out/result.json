@@ -1,0 +1,54 @@
+{
+ "dev": {
+  "lowest unit price": {
+   "picked_true_best_pct": 11,
+   "mean_extra_cost_pct": 588.6,
+   "median_extra_cost_pct": 269.2,
+   "late_pct": 60
+  },
+  "lowest price + stated freight among quotes that meet the date": {
+   "picked_true_best_pct": 33,
+   "mean_extra_cost_pct": 133.5,
+   "median_extra_cost_pct": 20.0,
+   "late_pct": 7
+  },
+  "landed cost (as quoted)": {
+   "picked_true_best_pct": 64,
+   "mean_extra_cost_pct": 32.5,
+   "median_extra_cost_pct": 0.0,
+   "late_pct": 9
+  },
+  "landed cost + HS check + channel risk": {
+   "picked_true_best_pct": 84,
+   "mean_extra_cost_pct": 14.3,
+   "median_extra_cost_pct": 0.0,
+   "late_pct": 10
+  }
+ },
+ "held_out": {
+  "lowest unit price": {
+   "picked_true_best_pct": 9,
+   "mean_extra_cost_pct": 636.1,
+   "median_extra_cost_pct": 283.2,
+   "late_pct": 56
+  },
+  "lowest price + stated freight among quotes that meet the date": {
+   "picked_true_best_pct": 23,
+   "mean_extra_cost_pct": 208.1,
+   "median_extra_cost_pct": 42.1,
+   "late_pct": 5
+  },
+  "landed cost (as quoted)": {
+   "picked_true_best_pct": 44,
+   "mean_extra_cost_pct": 96.7,
+   "median_extra_cost_pct": 4.0,
+   "late_pct": 6
+  },
+  "landed cost + HS check + channel risk": {
+   "picked_true_best_pct": 77,
+   "mean_extra_cost_pct": 6.6,
+   "median_extra_cost_pct": 0.0,
+   "late_pct": 7
+  }
+ }
+}
